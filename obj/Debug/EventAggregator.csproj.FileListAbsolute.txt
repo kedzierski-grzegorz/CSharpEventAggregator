@@ -1,0 +1,5 @@
+C:\Users\grzegorz.kedzierski\source\repos\eRaporty\EventAggregator.Core\bin\Debug\EventAggregator.dll
+C:\Users\grzegorz.kedzierski\source\repos\eRaporty\EventAggregator.Core\bin\Debug\EventAggregator.pdb
+C:\Users\grzegorz.kedzierski\source\repos\eRaporty\EventAggregator.Core\obj\Debug\EventAggregator.csproj.CoreCompileInputs.cache
+C:\Users\grzegorz.kedzierski\source\repos\eRaporty\EventAggregator.Core\obj\Debug\EventAggregator.dll
+C:\Users\grzegorz.kedzierski\source\repos\eRaporty\EventAggregator.Core\obj\Debug\EventAggregator.pdb
